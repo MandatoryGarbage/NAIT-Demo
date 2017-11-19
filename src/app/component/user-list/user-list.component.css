@@ -1,0 +1,8 @@
+.user-list {
+  height: 400px;
+  overflow: auto;
+}
+
+.user-card {
+  min-width: 300px;
+}
